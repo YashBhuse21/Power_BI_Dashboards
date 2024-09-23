@@ -62,8 +62,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 1. 𝐖𝐞𝐞𝐤_𝐎𝐧_𝐖𝐞𝐞𝐤 𝐜𝐡𝐚𝐧𝐠𝐞:
 - Revenue increased by 28.8%,
-- Total Transaction Amt increased by 2.22% 
-- Customer count increased by 1.74%
+- Total Transaction Amt increased by 22.24% 
+- Customer count increased by 18.74%
 
 2. 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐘𝐞𝐚𝐫_𝐓𝐨_𝐃𝐚𝐭𝐞:
 - Overall revenue is 57M
